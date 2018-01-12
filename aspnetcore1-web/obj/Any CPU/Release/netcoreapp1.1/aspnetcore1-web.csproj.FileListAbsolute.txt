@@ -1,0 +1,11 @@
+C:\Users\cawa\source\repos\aspnetcore1-web\aspnetcore1-web\bin\Any CPU\Release\netcoreapp1.1\aspnetcore1-web.deps.json
+C:\Users\cawa\source\repos\aspnetcore1-web\aspnetcore1-web\bin\Any CPU\Release\netcoreapp1.1\aspnetcore1-web.runtimeconfig.json
+C:\Users\cawa\source\repos\aspnetcore1-web\aspnetcore1-web\bin\Any CPU\Release\netcoreapp1.1\aspnetcore1-web.runtimeconfig.dev.json
+C:\Users\cawa\source\repos\aspnetcore1-web\aspnetcore1-web\bin\Any CPU\Release\netcoreapp1.1\aspnetcore1-web.dll
+C:\Users\cawa\source\repos\aspnetcore1-web\aspnetcore1-web\bin\Any CPU\Release\netcoreapp1.1\aspnetcore1-web.pdb
+C:\Users\cawa\source\repos\aspnetcore1-web\aspnetcore1-web\obj\Any CPU\Release\netcoreapp1.1\aspnetcore1-web.csprojResolveAssemblyReference.cache
+C:\Users\cawa\source\repos\aspnetcore1-web\aspnetcore1-web\obj\Any CPU\Release\netcoreapp1.1\aspnetcore1-web.csproj.CoreCompileInputs.cache
+C:\Users\cawa\source\repos\aspnetcore1-web\aspnetcore1-web\obj\Any CPU\Release\netcoreapp1.1\aspnetcore1-web.AssemblyInfoInputs.cache
+C:\Users\cawa\source\repos\aspnetcore1-web\aspnetcore1-web\obj\Any CPU\Release\netcoreapp1.1\aspnetcore1-web.AssemblyInfo.cs
+C:\Users\cawa\source\repos\aspnetcore1-web\aspnetcore1-web\obj\Any CPU\Release\netcoreapp1.1\aspnetcore1-web.dll
+C:\Users\cawa\source\repos\aspnetcore1-web\aspnetcore1-web\obj\Any CPU\Release\netcoreapp1.1\aspnetcore1-web.pdb
